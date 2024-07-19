@@ -4,17 +4,8 @@
 - Business Information System BSc (Galala University)
 - Data Scientist in Python (DataQuest.io)
 
-## Work Experience
-Vodafone Egypt, Cairo, Egypt.  (Technical Support)					(May 2022 – June 2022)
-- Assisting customers and providing necessary information
-- Handling customers requests and satisfying their needs
--	Staying in open communication with Vodafone team to minimize customer dissatisfaction 
-
-Consolidated Retail, Cairo, Egypt.   (IT Personnel) 			     (August 2023 – September 2023)
--	Creating and manipulating databases
--	Working in the ERP system
--	Using PowerBi in making visualizations that support decision making in the organization 
-
-QNB Al Ahly, Giza, Egypt.      (Internship)						              (September 2023 – October 2023)
--	Working in the ATM department
--	Helping in the DP department
+## Projects
+- [Exploring Financial Data using Nasdaq Data Link API](https://github.com/youssefffahmeddd/Projects/blob/main/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API/Exploring%20Financial%20Data.ipynb)
+- [Exploring eBay Car Sales Data](https://github.com/youssefffahmeddd/Projects/blob/main/Exploring%20eBay%20Car%20Sales%20Data/Exploring%20eBay%20Car%20Sales%20Data.ipynb)
+- [Hackers News Posts](https://github.com/youssefffahmeddd/Projects/blob/main/Hackers%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)
+- [Data Cleaning Project 1](https://github.com/youssefffahmeddd/Projects/blob/main/Data%20Cleaning%20Project%201/Untitled.ipynb)
