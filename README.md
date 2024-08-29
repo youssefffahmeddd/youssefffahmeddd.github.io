@@ -69,5 +69,24 @@
   
   5- Predict Heart Disease using ML and evaluate the performance of the model.
 
-  <img width="553" alt="Screenshot 2024-08-29 033057" src="https://github.com/user-attachments/assets/c262b5a1-d0e6-4234-a936-f1d75362259b">
+<img width="553" alt="Screenshot 2024-08-29 033057" src="https://github.com/user-attachments/assets/c262b5a1-d0e6-4234-a936-f1d75362259b">
 
+
+**[Covid-19 Death Toll](https://github.com/youssefffahmeddd/Projects/blob/main/Covid-19%20Death%20Toll/Covid-19%20Death%20Toll.ipynb)**
+
+- Project Objectives:
+
+  1- Using Story Telling Data Visualization Find Top 20 Covid-19 Deaths By Country.
+
+  2- Using Story Telling Data Visualization Find the Average Number of Daily Deaths Per Month in The Top Country.
+
+<img width="354" alt="Screenshot 2024-08-29 060923" src="https://github.com/user-attachments/assets/31390344-6334-41d6-907d-107ec0d0e84f">
+
+
+**[Euro Exchange Rate](https://github.com/youssefffahmeddd/Projects/blob/main/Story%20Telling%20Data%20Visualization%20on%20Exchange%20Rate/Euro%20Exchange%20Rate.ipynb)**
+
+- Project Objectives:
+
+  1- Using Story Telling Data Visualization Show How Covid-19 Impacted the Euro to US Dollar Exchange Rate.
+
+<img width="600" alt="Screenshot 2024-08-29 061238" src="https://github.com/user-attachments/assets/4be448b5-3152-4af8-bbc3-90498ee8b1e8">
