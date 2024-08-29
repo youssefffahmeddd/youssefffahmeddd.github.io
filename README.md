@@ -1,6 +1,4 @@
 # Youssef Ahmed Hassan
-- Data Scientist
-- Data Analyst
 
 ## Education
 - Business Information System BSc (Galala University)
