@@ -90,3 +90,8 @@
   1- Using Story Telling Data Visualization Show How Covid-19 Impacted the Euro to US Dollar Exchange Rate.
 
 <img width="600" alt="Screenshot 2024-08-29 061238" src="https://github.com/user-attachments/assets/4be448b5-3152-4af8-bbc3-90498ee8b1e8">
+
+
+[Australia Car Market](https://github.com/youssefffahmeddd/Projects/blob/main/Australia%20Car%20Market.pdf)
+
+![image](https://github.com/user-attachments/assets/8311e424-fee3-43f1-bc34-8c11764797b1)
