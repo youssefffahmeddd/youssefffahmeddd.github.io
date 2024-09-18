@@ -6,7 +6,7 @@
 - Data Analyst in Python (DataQuest.io)
 
 ## Projects
-**[Exploring Financial Data using Nasdaq Data Link API](https://github.com/youssefffahmeddd/Projects/blob/main/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API/Exploring%20Financial%20Data.ipynb)**
+**1- [Exploring Financial Data using Nasdaq Data Link API](https://github.com/youssefffahmeddd/Projects/blob/main/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API/Exploring%20Financial%20Data.ipynb)**
   
 - Project Objectives:
 
@@ -17,7 +17,7 @@
 <img width="614" alt="Screenshot 2024-08-27 002204" src="https://github.com/user-attachments/assets/32731686-770b-484d-b7c7-b6fe38dfaa7d">
 
 
-**[Exploring eBay Car Sales Data](https://github.com/youssefffahmeddd/Projects/blob/main/Exploring%20eBay%20Car%20Sales%20Data/Exploring%20eBay%20Car%20Sales%20Data.ipynb)**
+**2- [Exploring eBay Car Sales Data](https://github.com/youssefffahmeddd/Projects/blob/main/Exploring%20eBay%20Car%20Sales%20Data/Exploring%20eBay%20Car%20Sales%20Data.ipynb)**
   
 - Project Objectives:
 
@@ -26,7 +26,7 @@
 <img width="664" alt="Screenshot 2024-08-27 002548" src="https://github.com/user-attachments/assets/86ab5d46-a2a9-4365-b938-8cc6ba533eb2">
 
 
-**[Hackers News Posts](https://github.com/youssefffahmeddd/Projects/blob/main/Hackers%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)**
+**3- [Hackers News Posts](https://github.com/youssefffahmeddd/Projects/blob/main/Hackers%20News%20Posts/Exploring%20Hacker%20News%20Posts.ipynb)**
   
 - Project Objectives:
 
@@ -37,7 +37,7 @@
 <img width="658" alt="Screenshot 2024-08-27 002758" src="https://github.com/user-attachments/assets/44db183b-8d27-409f-a060-a0520c418de9">
 
 
-**[Investigating Fandango Movie Ratings](https://github.com/youssefffahmeddd/Projects/blob/main/Investigating%20Fandango%20Movie%20Ratings/Investigating%20Fandango%20Movie%20Ratings.ipynb)**
+**4- [Investigating Fandango Movie Ratings](https://github.com/youssefffahmeddd/Projects/blob/main/Investigating%20Fandango%20Movie%20Ratings/Investigating%20Fandango%20Movie%20Ratings.ipynb)**
   
 - Project Objectives:
 
@@ -46,7 +46,7 @@
 <img width="508" alt="Screenshot 2024-08-27 003033" src="https://github.com/user-attachments/assets/96da0444-3a41-44e7-acb3-202bf825a479">
 
 
-**[Star Wars Survey](https://github.com/youssefffahmeddd/Projects/blob/main/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb)**
+**5- [Star Wars Survey](https://github.com/youssefffahmeddd/Projects/blob/main/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb)**
 
 - Project Objectives:
 
@@ -55,7 +55,7 @@
 <img width="617" alt="Screenshot 2024-08-28 141015" src="https://github.com/user-attachments/assets/f385999d-e91c-4cd3-b772-fac48693d2d0">
 
 
-**[Predicting Heart Disease](https://github.com/youssefffahmeddd/Projects/blob/main/Predicting%20Heart%20Disease/Predicting%20Heart%20Disease.ipynb)**
+**6- [Predicting Heart Disease](https://github.com/youssefffahmeddd/Projects/blob/main/Predicting%20Heart%20Disease/Predicting%20Heart%20Disease.ipynb)**
 
 - Project Objectives:
 
@@ -72,7 +72,7 @@
 <img width="553" alt="Screenshot 2024-08-29 033057" src="https://github.com/user-attachments/assets/c262b5a1-d0e6-4234-a936-f1d75362259b">
 
 
-**[Covid-19 Death Toll](https://github.com/youssefffahmeddd/Projects/blob/main/Covid-19%20Death%20Toll/Covid-19%20Death%20Toll.ipynb)**
+**7- [Covid-19 Death Toll](https://github.com/youssefffahmeddd/Projects/blob/main/Covid-19%20Death%20Toll/Covid-19%20Death%20Toll.ipynb)**
 
 - Project Objectives:
 
@@ -83,7 +83,7 @@
 <img width="354" alt="Screenshot 2024-08-29 060923" src="https://github.com/user-attachments/assets/31390344-6334-41d6-907d-107ec0d0e84f">
 
 
-**[Euro Exchange Rate](https://github.com/youssefffahmeddd/Projects/blob/main/Story%20Telling%20Data%20Visualization%20on%20Exchange%20Rate/Euro%20Exchange%20Rate.ipynb)**
+**8- [Euro Exchange Rate](https://github.com/youssefffahmeddd/Projects/blob/main/Story%20Telling%20Data%20Visualization%20on%20Exchange%20Rate/Euro%20Exchange%20Rate.ipynb)**
 
 - Project Objectives:
 
@@ -92,12 +92,12 @@
 <img width="600" alt="Screenshot 2024-08-29 061238" src="https://github.com/user-attachments/assets/4be448b5-3152-4af8-bbc3-90498ee8b1e8">
 
 
-**[Australia Car Market](https://github.com/youssefffahmeddd/Projects/blob/main/Australia%20Car%20Market.pdf)**
+**9- [Australia Car Market](https://github.com/youssefffahmeddd/Projects/blob/main/Australia%20Car%20Market.pdf)**
 
 ![image](https://github.com/user-attachments/assets/8311e424-fee3-43f1-bc34-8c11764797b1)
 
 
-**[Predicting Insurance Cost](https://github.com/youssefffahmeddd/Projects/blob/main/Predicting%20Insurance%20Cost/Predicting%20Insurance%20Cost.ipynb)**
+**10- [Predicting Insurance Cost](https://github.com/youssefffahmeddd/Projects/blob/main/Predicting%20Insurance%20Cost/Predicting%20Insurance%20Cost.ipynb)**
 
 - Project Objectives:
 
@@ -106,7 +106,7 @@
 <img width="601" alt="Screenshot 2024-09-18 221119" src="https://github.com/user-attachments/assets/f2a45507-8a89-4954-818b-90ae8ef59ace">
 
 
-**[Predicting Customer Churn](https://github.com/youssefffahmeddd/Projects/blob/main/Customer%20Churn/Customer%20Churn.ipynb)**
+**11- [Predicting Customer Churn](https://github.com/youssefffahmeddd/Projects/blob/main/Customer%20Churn/Customer%20Churn.ipynb)**
 
 - Project Objectives:
 
