@@ -95,3 +95,23 @@
 **[Australia Car Market](https://github.com/youssefffahmeddd/Projects/blob/main/Australia%20Car%20Market.pdf)**
 
 ![image](https://github.com/user-attachments/assets/8311e424-fee3-43f1-bc34-8c11764797b1)
+
+
+**[Predicting Insurance Cost](https://github.com/youssefffahmeddd/Projects/blob/main/Predicting%20Insurance%20Cost/Predicting%20Insurance%20Cost.ipynb)**
+
+- Project Objectives:
+
+  1- Build a ML Model to Predict the Insurance Cost for Customers.
+
+<img width="601" alt="Screenshot 2024-09-18 221119" src="https://github.com/user-attachments/assets/f2a45507-8a89-4954-818b-90ae8ef59ace">
+
+
+**[Predicting Customer Churn](https://github.com/youssefffahmeddd/Projects/blob/main/Customer%20Churn/Customer%20Churn.ipynb)**
+
+- Project Objectives:
+
+  1- Build a ML Model to Predict Customer Churn.
+
+  2- Create a Dashboard Using Power BI.
+
+<img width="680" alt="Screenshot 2024-09-18 221601" src="https://github.com/user-attachments/assets/35457dfe-68d6-41aa-b914-0527bef9176b">
