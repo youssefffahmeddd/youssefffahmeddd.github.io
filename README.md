@@ -114,4 +114,4 @@
 
   2- Create a Dashboard Using Power BI.
 
-<img width="680" alt="Screenshot 2024-09-18 221601" src="https://github.com/user-attachments/assets/35457dfe-68d6-41aa-b914-0527bef9176b">
+<img width="680" alt="Screenshot 2024-09-20 052919" src="https://github.com/user-attachments/assets/5ec83bf0-1cc0-468c-b943-d420395bfa41">
