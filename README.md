@@ -4,6 +4,7 @@
 - Business Information System BSc (Galala University)
 - Data Scientist in Python (DataQuest.io)
 - Data Analyst in Python (DataQuest.io)
+- Business Analyst with Tableau (DataQuest.io)
 
 ## Projects
 **1- [Exploring Financial Data using Nasdaq Data Link API](https://github.com/youssefffahmeddd/Projects/blob/main/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API/Exploring%20Financial%20Data.ipynb)**
